@@ -13,3 +13,5 @@ The two questions that this analysis looked at were:
 2. The date of hire data was changed to the accepted Excel date format
 3. The tenure for each employee was then calculated and graphed against that employee's gross salary 
 4. The equation for the linear regression was then displayed on the graph.
+
+![alt text](https://github.com/yangnoah/analysis-of-baltimore-city-government-salary/blob/master/Graph.JPG)
